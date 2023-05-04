@@ -1,6 +1,7 @@
 const config = {
   _locales: [
     // 'ar',
+    // 'ar',
     // 'fr',
     // 'cs',
     // 'de',
